@@ -1,3 +1,4 @@
 Data/
 .gitignore/
 Model/
+__pycache__
